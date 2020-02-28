@@ -26,4 +26,6 @@ Webpage built to display our results, by default can be quite basic, but it may 
 Webpage will connect to the database to display the data.  
 Admin section may be required to add new cases or this may be automated.  
 
-
+## Branch Structure:
+Master branch for currently working scripts etc...  
+dev branch for development prototypes  
